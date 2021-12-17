@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: rgb(179, 179, 197);
+}
+
+.resume-box{
+    width: 800px;
+    height: 1000px;
+    margin: 100px auto;
+    background: white;
+    box-shadow: 5px 21px 20px 20px #3d3f4238;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.left-section{
+    background: grey;
+    width: 250px;
+    height: 1000px;
+    float: left;
+}
+
+.profile{
+    overflow: hidden;
+    position: relative;
+}
+
+.blue-box{
+    width: 257px;
+    height: 407px;
+    background: rgb(49, 49, 54);
+    margin-left: -100px;
+    transform: rotateZ(48deg);
+    margin-top: -178px;
+}
+
+.profile-img{
+    position: absolute;
+    z-index: 9;
+    width: 120px;
+    height: 120px;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 50%;
+    border: 3px solid gray;
+}
+
+.name{
+    color: black;
+    text-align: center;
+    margin-top: -34px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.n-p{
+    width: 180px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 7px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-top: 11px;
+    text-transform: uppercase;
+}
+
+.info{
+    margin-top: 50px;
+}
+
+.heading{
+    width: 180px;
+    width: 180px;
+    margin: 0 auto;
+    padding: 2px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-top: 11px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.p1{
+    color: white;
+    width: 184px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 15px;
+    line-height: 14px;
+}
+
+.p1 span{
+    font-size: 12px;
+}
+
+.span1 img{
+    background: white;
+    width: 30px;
+    padding: 6px;
+    border-radius: 16px;
+    float: left;
+    margin-right: 10px;
+}
+
+.right-section{
+    padding: 40px 30px;
+    background: white;
+    width: 68%;
+    float: left;
+    height: 1000px;
+}
+
+.right-section img{
+    background: white;
+    width: 36px;
+    padding: 7px;
+    border-radius: 17px;
+    float: left;
+    display: inline-block;
+    margin-top: -6px;
+}
+
+.p2{
+    margin: 0 auto;
+    padding: 2px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    color: black;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-left: 50px;
+    line-height: 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
